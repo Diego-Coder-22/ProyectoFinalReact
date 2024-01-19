@@ -7,9 +7,9 @@ import "./main.css"
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {CartProvider } from "./context/CartContext";
 import Carrito from "./components/Carrito";
-import Checkout from "./components/checkout";
+import Checkout from "./components/Checkout";
 import Contacto from "./components/Contacto";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 
 function App() {
