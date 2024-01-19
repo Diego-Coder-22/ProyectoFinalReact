@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "titulo": "Aceite de Ajedrea",
+        "descripcion": "Unas gotitas de aceite esencial de Ajedrea en tu humidificador mantienen el ambiente limpio, despejan las vías respiratorias y te protegen ante las infecciones. Puedes utilizarlo también para ayudar a aliviar las molestias en caso de trastornos digestivos ocasionales.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-ajedrea.jpg",
+        "precio": 15,
+        "stock": 14
+    },
+    {
+        "id": 2,
+        "titulo":"Aceite de Albahaca",
+        "descripcion": "El aceite esencial de albahaca es cálido, anisado y nos recuerda al huerto. Puedes utilizarlo en caso de molestias estomacales, problemas menstruales, para el cuidado de la piel… y en verano, mantiene alejados a los insectos.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-albahaca.jpg",
+        "precio": 14.50,
+        "stock": 13
+    },
+    {
+        "id": 3,
+        "titulo":"Aceite de Arbol de Te",
+        "descripcion": "El Aceite esencial de Árbol de té es reconocido por su acción protectora de la piel frente a las infecciones. Indicado para el tratamiento de hongos en la piel, desinfección de heridas y muy recomendable para combatir el acné.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-arbol-de-te.jpg",
+        "precio": 8,
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "titulo":"Aceite de Bergamota",
+        "descripcion": "El aceite de Bergamota es cálido, alegre, despierta el entusiasmo y aleja la apatía y la falta de motivación. Funciona como un excelente antiséptico natural sobre heridas y cortes, alivia el dolor y protege frente a infecciones, además ayuda a regular el equilibrio de la piel y el cabello graso.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-bergamota.jpg",
+        "precio": 6,
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "titulo":"Aceite de Canela",
+        "descripcion": "El aroma cálido y especiado del aceite esencial de canela nos refuerza y ayuda a entrar en calor para disfrutar de nuestro entorno más próximo. Indicado para el alivio de molestias articulares, musculares y trastornos digestivos ocasionales",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-canela.jpg",
+        "precio": 7,
+        "stock": 16
+    },
+    {
+        "id": 6,
+        "titulo":"Aceite de Hinojo",
+        "descripcion": "El aroma dulce y anisado del aceite esencial de hinojo transmite calma y estimula la mente. Favorece la circulación y ayuda a facilitar las digestiones pesadas. En cosmética es ideal para la limpieza e hidratación de la piel.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-hinojo.jpg",
+        "precio": 7.4,
+        "stock": 8
+    },
+    {
+        "id": 7,
+        "titulo":"Aceite de Lavanda",
+        "descripcion": "El aceite esencial de lavanda es uno de los más versátiles y útiles en tu día a día. Aromatiza cada rincón de tu casa con su suave fragancia, relaja y además, es un remedio eficaz para curar pequeñas heridas, calmar el dolor y tratar problemas en la piel manteniéndola sana y cuidada.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-lavanda-1.jpg",
+        "precio": 6.5,
+        "stock": 9
+    },
+    {
+        "id": 8,
+        "titulo":"Aceite de Naranja",
+        "descripcion": "La fragancia dulce y alegre del aceite esencial de naranja evoca recuerdos de la infancia, invita al optimismo si te encuentras bajo de ánimo y calma el nerviosismo, la ansiedad o el estrés en un momento puntual. Aspíralo profundamente y llénate de vitalidad.Un masaje tonificante con aceite esencial de naranja contribuye a favorecer el retorno venoso mejorando la circulación, ayuda al drenaje linfático, alivia la retención de líquidos y evita la aparición de arañitas vasculares y varices… Ideal para tratar pieles grasas con tendencia a acné.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-naranja-1.jpg",
+        "precio": 5,
+        "stock": 23
+    },
+    {
+        "id": 9,
+        "titulo":"Aceite de Jengibre",
+        "descripcion": "El aceite esencial de Jengibre ayuda a combatir las afecciones más comunes en los meses de frío. Es eficaz para aliviar molestias musculares, articulares y digestivas. Contiene, además, excelentes propiedades hidratantes para la piel. ",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-jengibre-1.jpg",
+        "precio": 12,
+        "stock": 12
+    },
+    {
+        "id": 10,
+        "titulo":"Aceite de Limón",
+        "descripcion": "La fragancia del aceite esencial de limón nos ayuda a empezar el día con buen pie y alegría. En masaje, favorece la circulación sanguínea y el drenaje linfático mejorando problemas como la retención de líquidos, pesadez de piernas, varices, celulitis…Ideal también para los más pequeños de la casa.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-limon-1.jpg",
+        "precio": 11,
+        "stock": 11
+    },
+    {
+        "id": 11,
+        "titulo":"Aceite de Mandarina",
+        "descripcion": "La fragancia cítrica, pero cálida, del aceite esencial de mandarina relaja y levanta el ánimo. Además, el aceite de mandarina ayuda a evitar la infección de heridas, alivia las molestias estomacales y es excelente para el cuidado de la piel grasa y cabello.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-mandarina-1.jpg",
+        "precio": 8,
+        "stock": 6
+    },
+    {
+        "id": 12,
+        "titulo":"Aceite de Manzanilla",
+        "descripcion": "Cuando inhalas el aceite esencial de manzanilla sientes una agradable sensación de bienestar y tranquilidad. Además, ayuda a aliviar trastornos digestivos ocasionales y es excelente para el cuidado de pieles irritadas y sensibles.",
+        "categoria": "Aceites",
+        "imagen": "/src/assets/img/Productos/aceite-esencial-manzanilla-1.jpg",
+        "precio": 9,
+        "stock": 8
+    },
+    {
+        "id": 13,
+        "titulo":"Loción Corporal Celulitis",
+        "descripcion": "Acabar con la celulitis no es tarea fácil, pero con constancia, hábitos saludables y un buen aliado, puedes conseguir muy buenos resultados en poco tiempo.Nuestra Loción corporal anticelulítica es una alternativa natural perfecta para ayudarte a prevenir y reducir la temida celulitis que tanto afea el aspecto de la piel.",
+        "categoria": "Lociones",
+        "imagen": "/src/assets/img/Productos/aceite-corporal-celulitis-1.jpg",
+        "precio": 15.5,
+        "stock": 4
+    },
+    {
+        "id": 14,
+        "titulo":"Loción Corporal Estrias",
+        "descripcion": "Loción corporal ESTRÍAS BIO es un potente concentrado a base de ingredientes naturales que consigue atenuar las marcas y estrías provocados por el paso del tiempo, las variaciones bruscas de peso o el embarazo y que tanto afean nuestra piel.",
+        "categoria": "Lociones",
+        "imagen": "/src/assets/img/Productos/aceite-corporal-estrias-1.jpg",
+        "precio": 19,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo":"Loción Corporal Hidratante",
+        "descripcion": "Loción corporal HIDRATANTE BIO, elaborado a base de aceites BIO de almendras, oliva, sésamo y una cuidada selección de aceites esenciales hidratantes, nutre en profundidad y repara todo tipo de piel, incluida la más seca y castigada. Ideal para después de la ducha; se absorbe con facilidad, alivia la sensación de tirantez y deja una agradable sensación de bienestar gracias a su aroma natural.",
+        "categoria": "Lociones",
+        "imagen": "/src/assets/img/Productos/aceite-corporal-hidratante-1.jpg",
+        "precio": 18,
+        "stock": 19
+    },
+    {
+        "id": 16,
+        "titulo":"Loción Corporal Piernas Relax",
+        "descripcion": "Los aceites BIO de almendras, oliva y sésamo empleados en su formulación, favorecen la absorción en profundidad asegurando que los principios activos de los aceites esenciales de ciprés, romero y limón lleguen hasta nuestro torrente sanguíneo; así conseguiremos activar la circulación, rebajar la inflamación y aliviar las molestias y la pesadez. Además ayudarás a reforzar los vasos sanguíneos evitando la aparición de varices, venitas rotas, arañitas vasculares…",
+        "categoria": "Lociones",
+        "imagen": "/src/assets/img/Productos/aceite-corporal-piernas-relax.jpg",
+        "precio": 17.5,
+        "stock": 15
+    },
+    {
+        "id": 17,
+        "titulo":"Loción Corporal Relajante",
+        "descripcion": "El efecto relajante de los aceites esenciales de naranja, lavandín e ylang ylang proporciona alivio físico y emocional del estrés y el agotamiento nervioso con su aroma cálido y penetrante. A su vez, los aceites BIO de almendras, oliva y sésamo penetran hasta las capas más profundas de la piel y le aportan nutrientes y vitaminas dejando la piel suave e hidratada.",
+        "categoria": "Lociones",
+        "imagen": "/src/assets/img/Productos/aceite-corporal-relajante-1.jpg",
+        "precio": 15,
+        "stock": 12
+    },
+    {
+        "id": 18,
+        "titulo":"Loción Corporal Sensual",
+        "descripcion": "Para tí: su textura ligera y agradable proporciona la hidratación y suavidad de los aceites naturales BIO de almendras, oliva y sésamo junto al exquisito aroma floral de los aceites esenciales de lavanda, geranio e ylang ylang.",
+        "categoria": "Lociones",
+        "imagen": "/src/assets/img/Productos/aceite-corporal-sensual-1.jpg",
+        "precio": 16,
+        "stock": 17
+    },
+    {
+        "id": 19,
+        "titulo":"Agua Floral Geranio",
+        "descripcion": "El agua floral de geranio es ideal para tonificar todo tipo de cutis; desde jóvenes a maduros, cutis secos, mixtos y grasos. También para las pieles más delicadas, cuperosas y acnéicas.",
+        "categoria": "Aguas",
+        "imagen": "/src/assets/img/Productos/agua-floral-geranio.jpg",
+        "precio": 15,
+        "stock": 18
+    },
+    {
+        "id": 20,
+        "titulo":"Agua Floral Hisopo",
+        "descripcion": "El agua floral o hidrolato de hisopo es un tónico facial natural perfecto especialmente para el tratamiento de pieles acneicas. Aplícalo después de limpiar tu piel y conseguirás regular su equilibrio y lucir un rostro limpio, tonificado y libre de granitos.",
+        "categoria": "Aguas",
+        "imagen": "/src/assets/img/Productos/agua-floral-hisopo-2.jpg",
+        "precio": 13,
+        "stock": 15
+    },
+    {
+        "id": 21,
+        "titulo":"Agua Floral de Manzanilla",
+        "descripcion": "El agua floral de manzanilla hidrata, calma la piel irritada y proporciona una agradable sensación de alivio y frescor. Puedes utilizarlo como tónico facial natural, en aplicación corporal y también como tónico capilar. En los momentos de ansiedad reconforta y favorece la relajación y, gracias a su efecto sedante, ayuda a conciliar el sueño, incluso en niños.",
+        "categoria": "Aguas",
+        "imagen": "/src/assets/img/Productos/agua-floral-manzanilla.jpg",
+        "precio": 14,
+        "stock": 7
+    },
+    {
+        "id": 22,
+        "titulo":"Agua Floral de Mejorana",
+        "descripcion": "Utilízalo como tónico facial para eliminar el acné y evitar su aparición. El aroma tonificante y balsámico del agua floral de mejorana alegra y proporciona bienestar y ánimo para empezar el día.",
+        "categoria": "Aguas",
+        "imagen": "/src/assets/img/Productos/agua-floral-mejorana-1.jpg",
+        "precio": 12.5,
+        "stock": 4
+    },
+    {
+        "id": 23,
+        "titulo":"Agua Floral de Menta",
+        "descripcion": "Nada mejor que empezar la mañana con el aroma fresquito y tonificante de la menta sobre tu rostro.El agua floral de menta es purificante, ayuda a cerrar los poros, regula la secreción de grasa de las pieles mixtas, grasas o acneicas y calma la irritación.Este hidrolato es el agua que se obtiene durante el proceso de destilación de la menta para extraer su aceite esencial.",
+        "categoria": "Aguas",
+        "imagen": "/src/assets/img/Productos/agua-floral-menta.jpg",
+        "precio": 15,
+        "stock": 8
+    },
+    {
+        "id": 24,
+        "titulo":"Agua Floral de Romero",
+        "descripcion": "El agua floral de romero tonifica el cutis mixto o graso, mantiene el pH natural, revitaliza la piel apagada y actúa sobre arrugas y marcas gracias a sus propiedades antioxidantes y reafirmantes.Si sientes pesadez de piernas o molestias por la mala circulación sanguínea rocíalo sobre las piernas y aplica un buen masaje, te ayudará favorecer la circulación, a calmar la sensación de pesadez y a reducir la inflamación. También puedes utilizarlo en caso de artrosis, reúma o gota. El agua floral de romero actúa, además, como un excelente tónico revitalizante para cabellos quebradizos, sin brillo y con poco vigor. Rocíalo sobre tu cuerpo, tu ropa y tu cabello; su aroma intenso y penetrante tonifica y ayuda a recargar energías para empezar el día…",
+        "categoria": "Aguas",
+        "imagen": "/src/assets/img/Productos/agua-floral-romero.jpg",
+        "precio": 16,
+        "stock": 9
+    }
+]
