@@ -1,5 +1,5 @@
 import React from "react"
-import Hero from "./Slider/slider"
+import Hero from "./Slider/Slider"
 
 
 const Inicio =()=> {
